@@ -3,7 +3,7 @@
 
 int main()
 {
-	GLFWEW::Window& window = GLFWEW::Window::Instance();
+	GLFWEW::Window& window = GLFWEW::Window::Instance();	//kjdjfhlkfe
 	window.Init(1280, 720, u8"アクションゲーム");
 
 	SceneStack& sceneStack = SceneStack::Instance();
